@@ -121,7 +121,9 @@
          <div type="title_page">
             <pb facs="tcp:11739:1"/>
             <pb facs="tcp:11739:1" rendition="simple:additions"/>
-            <figure/>
+            <p>
+               <figure/>A Liuing Sadnes, In Duty consecrated to the Immortall memory of our late Deceased albe-loued Soueraigne Lord, The Peereles Paragon of Princes, IAMES, King of great <hi>Brit<g ref="char:EOLhyphen"/>taine, France and Ireland.</hi>
+            </p>
             <p>Who departed this Life at his Mannour of <hi>Theobalds,</hi> on Sunday last, the 27. of March, 1625.</p>
             <p>By IOHN TAYLOR.</p>
          </div>
